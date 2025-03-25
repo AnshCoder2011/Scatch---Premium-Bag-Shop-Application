@@ -1,7 +1,7 @@
 {
   "name": "scatch---premium-bag-shop-application",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "config": "^3.3.12",
     "cookie-parser": "^1.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
